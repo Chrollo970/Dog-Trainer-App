@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33328.57
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "GoDogApp", "GoDogApp\GoDogApp.vbproj", "{1BD8B296-8A51-4490-957F-89FC5D606126}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{52CFEA41-146D-48F3-ADC2-08811066904F}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\Downloads\FontsFree-Net-Poppins-ExtraBold.ttf = ..\..\..\Downloads\FontsFree-Net-Poppins-ExtraBold.ttf
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1BD8B296-8A51-4490-957F-89FC5D606126}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BD8B296-8A51-4490-957F-89FC5D606126}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BD8B296-8A51-4490-957F-89FC5D606126}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BD8B296-8A51-4490-957F-89FC5D606126}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {14191A1F-7722-4EA1-B8F4-81B3B76CA230}
+	EndGlobalSection
+EndGlobal

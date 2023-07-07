@@ -1,0 +1,60 @@
+C:\Users\USER\source\repos\GoDogApp\GoDogApp\obj\Debug\GoDogApp.vbproj.AssemblyReference.cache
+C:\Users\USER\source\repos\GoDogApp\GoDogApp\obj\Debug\GoDogApp.Form1.resources
+C:\Users\USER\source\repos\GoDogApp\GoDogApp\obj\Debug\GoDogApp.Resources.resources
+C:\Users\USER\source\repos\GoDogApp\GoDogApp\obj\Debug\GoDogApp.vbproj.GenerateResource.cache
+C:\Users\USER\source\repos\GoDogApp\GoDogApp\obj\Debug\GoDogApp.vbproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\GoDogApp\GoDogApp\bin\Debug\GoDogApp.exe.config
+C:\Users\USER\source\repos\GoDogApp\GoDogApp\bin\Debug\GoDogApp.exe
+C:\Users\USER\source\repos\GoDogApp\GoDogApp\bin\Debug\GoDogApp.pdb
+C:\Users\USER\source\repos\GoDogApp\GoDogApp\bin\Debug\GoDogApp.xml
+C:\Users\USER\source\repos\GoDogApp\GoDogApp\obj\Debug\GoDogApp.exe
+C:\Users\USER\source\repos\GoDogApp\GoDogApp\obj\Debug\GoDogApp.xml
+C:\Users\USER\source\repos\GoDogApp\GoDogApp\obj\Debug\GoDogApp.pdb
+C:\Users\USER\source\repos\GoDogApp\GoDogApp\obj\Debug\GoDogApp.Frm2.resources
+C:\Users\USER\source\repos\GoDogApp\GoDogApp\obj\Debug\GoDogApp.CommandBasicsFrm.resources
+C:\Users\USER\source\repos\GoDogApp\GoDogApp\obj\Debug\GoDogApp.LessonOneFrm.resources
+C:\Users\USER\source\repos\GoDogApp\GoDogApp\obj\Debug\GoDogApp.LessonThreeFrm.resources
+C:\Users\USER\source\repos\GoDogApp\GoDogApp\obj\Debug\GoDogApp.LessonTwo.resources
+C:\Users\USER\source\repos\GoDogApp\GoDogApp\obj\Debug\GoDogApp.LessonFivefrm.resources
+C:\Users\USER\source\repos\GoDogApp\GoDogApp\obj\Debug\GoDogApp.LessonFourFrm.resources
+C:\Users\USER\source\repos\GoDogApp\GoDogApp\obj\Debug\GoDogApp.LessonSixFrm.resources
+C:\Users\USER\source\repos\GoDogApp\GoDogApp\obj\Debug\GoDogApp.DogNameProfile.resources
+C:\Users\USER\source\repos\GoDogApp\GoDogApp\obj\Debug\GoDogApp.TrustNTargeting.resources
+C:\Users\USER\source\repos\GoDogApp\GoDogApp\obj\Debug\GoDogApp.TargetingFrm.resources
+C:\Users\USER\source\repos\GoDogApp\GoDogApp\obj\Debug\GoDogApp.TrustFrm.resources
+C:\Users\USER\source\repos\GoDogApp\GoDogApp\obj\Debug\GoDogApp.GenderFrm.resources
+C:\Users\USER\source\repos\GoDogApp\GoDogApp\obj\Debug\GoDogApp.LessonSixSecondPgFrmvb.resources
+C:\Users\USER\source\repos\GoDogApp\GoDogApp\obj\Debug\GoDogApp.SeconddPgLesson5.resources
+C:\Users\USER\source\repos\GoDogApp\GoDogApp\obj\Debug\GoDogApp.SecondPageLesson6Frm.resources
+C:\Users\USER\source\repos\GoDogApp\GoDogApp\obj\Debug\GoDogApp.RatingFrmvb.resources
+C:\Users\USER\source\repos\GoDogApp\GoDogApp\obj\Debug\GoDogApp.Form2.resources
+C:\Users\Aaron Balaguer\repos\GoDogApp\GoDogApp\bin\Debug\GoDogApp.exe.config
+C:\Users\Aaron Balaguer\repos\GoDogApp\GoDogApp\bin\Debug\GoDogApp.exe
+C:\Users\Aaron Balaguer\repos\GoDogApp\GoDogApp\bin\Debug\GoDogApp.pdb
+C:\Users\Aaron Balaguer\repos\GoDogApp\GoDogApp\bin\Debug\GoDogApp.xml
+C:\Users\Aaron Balaguer\repos\GoDogApp\GoDogApp\obj\Debug\GoDogApp.vbproj.AssemblyReference.cache
+C:\Users\Aaron Balaguer\repos\GoDogApp\GoDogApp\obj\Debug\GoDogApp.CommandBasicsFrm.resources
+C:\Users\Aaron Balaguer\repos\GoDogApp\GoDogApp\obj\Debug\GoDogApp.DogNameProfile.resources
+C:\Users\Aaron Balaguer\repos\GoDogApp\GoDogApp\obj\Debug\GoDogApp.Form1.resources
+C:\Users\Aaron Balaguer\repos\GoDogApp\GoDogApp\obj\Debug\GoDogApp.Form2.resources
+C:\Users\Aaron Balaguer\repos\GoDogApp\GoDogApp\obj\Debug\GoDogApp.Frm2.resources
+C:\Users\Aaron Balaguer\repos\GoDogApp\GoDogApp\obj\Debug\GoDogApp.GenderFrm.resources
+C:\Users\Aaron Balaguer\repos\GoDogApp\GoDogApp\obj\Debug\GoDogApp.LessonFivefrm.resources
+C:\Users\Aaron Balaguer\repos\GoDogApp\GoDogApp\obj\Debug\GoDogApp.LessonFourFrm.resources
+C:\Users\Aaron Balaguer\repos\GoDogApp\GoDogApp\obj\Debug\GoDogApp.LessonOneFrm.resources
+C:\Users\Aaron Balaguer\repos\GoDogApp\GoDogApp\obj\Debug\GoDogApp.LessonSixFrm.resources
+C:\Users\Aaron Balaguer\repos\GoDogApp\GoDogApp\obj\Debug\GoDogApp.LessonSixSecondPgFrmvb.resources
+C:\Users\Aaron Balaguer\repos\GoDogApp\GoDogApp\obj\Debug\GoDogApp.LessonThreeFrm.resources
+C:\Users\Aaron Balaguer\repos\GoDogApp\GoDogApp\obj\Debug\GoDogApp.LessonTwo.resources
+C:\Users\Aaron Balaguer\repos\GoDogApp\GoDogApp\obj\Debug\GoDogApp.Resources.resources
+C:\Users\Aaron Balaguer\repos\GoDogApp\GoDogApp\obj\Debug\GoDogApp.RatingFrmvb.resources
+C:\Users\Aaron Balaguer\repos\GoDogApp\GoDogApp\obj\Debug\GoDogApp.SeconddPgLesson5.resources
+C:\Users\Aaron Balaguer\repos\GoDogApp\GoDogApp\obj\Debug\GoDogApp.SecondPageLesson6Frm.resources
+C:\Users\Aaron Balaguer\repos\GoDogApp\GoDogApp\obj\Debug\GoDogApp.TargetingFrm.resources
+C:\Users\Aaron Balaguer\repos\GoDogApp\GoDogApp\obj\Debug\GoDogApp.TrustFrm.resources
+C:\Users\Aaron Balaguer\repos\GoDogApp\GoDogApp\obj\Debug\GoDogApp.TrustNTargeting.resources
+C:\Users\Aaron Balaguer\repos\GoDogApp\GoDogApp\obj\Debug\GoDogApp.vbproj.GenerateResource.cache
+C:\Users\Aaron Balaguer\repos\GoDogApp\GoDogApp\obj\Debug\GoDogApp.vbproj.CoreCompileInputs.cache
+C:\Users\Aaron Balaguer\repos\GoDogApp\GoDogApp\obj\Debug\GoDogApp.exe
+C:\Users\Aaron Balaguer\repos\GoDogApp\GoDogApp\obj\Debug\GoDogApp.xml
+C:\Users\Aaron Balaguer\repos\GoDogApp\GoDogApp\obj\Debug\GoDogApp.pdb

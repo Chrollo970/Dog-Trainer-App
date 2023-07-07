@@ -1,0 +1,362 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{1BD8B296-8A51-4490-957F-89FC5D606126}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>GoDogApp.My.MyApplication</StartupObject>
+    <RootNamespace>GoDogApp</RootNamespace>
+    <AssemblyName>GoDogApp</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>GoDogApp.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>GoDogApp.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CommandBasicsFrm.Designer.vb">
+      <DependentUpon>CommandBasicsFrm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="CommandBasicsFrm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DogNameProfile.Designer.vb">
+      <DependentUpon>DogNameProfile.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DogNameProfile.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.vb">
+      <DependentUpon>Form1.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form2.Designer.vb">
+      <DependentUpon>Form2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm2.Designer.vb">
+      <DependentUpon>Frm2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Frm2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GenderFrm.Designer.vb">
+      <DependentUpon>GenderFrm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="GenderFrm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LessonFivefrm.Designer.vb">
+      <DependentUpon>LessonFivefrm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="LessonFivefrm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LessonFourFrm.Designer.vb">
+      <DependentUpon>LessonFourFrm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="LessonFourFrm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LessonOneFrm.Designer.vb">
+      <DependentUpon>LessonOneFrm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="LessonOneFrm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LessonSixFrm.Designer.vb">
+      <DependentUpon>LessonSixFrm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="LessonSixFrm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LessonSixSecondPgFrmvb.Designer.vb">
+      <DependentUpon>LessonSixSecondPgFrmvb.vb</DependentUpon>
+    </Compile>
+    <Compile Include="LessonSixSecondPgFrmvb.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LessonThreeFrm.Designer.vb">
+      <DependentUpon>LessonThreeFrm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="LessonThreeFrm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LessonTwo.Designer.vb">
+      <DependentUpon>LessonTwo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="LessonTwo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="RatingFrmvb.Designer.vb">
+      <DependentUpon>RatingFrmvb.vb</DependentUpon>
+    </Compile>
+    <Compile Include="RatingFrmvb.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SeconddPgLesson5.Designer.vb">
+      <DependentUpon>SeconddPgLesson5.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SeconddPgLesson5.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SecondPageLesson6Frm.Designer.vb">
+      <DependentUpon>SecondPageLesson6Frm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SecondPageLesson6Frm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TargetingFrm.Designer.vb">
+      <DependentUpon>TargetingFrm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="TargetingFrm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TrustFrm.Designer.vb">
+      <DependentUpon>TrustFrm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="TrustFrm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TrustNTargeting.Designer.vb">
+      <DependentUpon>TrustNTargeting.vb</DependentUpon>
+    </Compile>
+    <Compile Include="TrustNTargeting.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="CommandBasicsFrm.resx">
+      <DependentUpon>CommandBasicsFrm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DogNameProfile.resx">
+      <DependentUpon>DogNameProfile.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form2.resx">
+      <DependentUpon>Form2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm2.resx">
+      <DependentUpon>Frm2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GenderFrm.resx">
+      <DependentUpon>GenderFrm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LessonFivefrm.resx">
+      <DependentUpon>LessonFivefrm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LessonFourFrm.resx">
+      <DependentUpon>LessonFourFrm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LessonOneFrm.resx">
+      <DependentUpon>LessonOneFrm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LessonSixFrm.resx">
+      <DependentUpon>LessonSixFrm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LessonSixSecondPgFrmvb.resx">
+      <DependentUpon>LessonSixSecondPgFrmvb.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LessonThreeFrm.resx">
+      <DependentUpon>LessonThreeFrm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LessonTwo.resx">
+      <DependentUpon>LessonTwo.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RatingFrmvb.resx">
+      <DependentUpon>RatingFrmvb.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SeconddPgLesson5.resx">
+      <DependentUpon>SeconddPgLesson5.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SecondPageLesson6Frm.resx">
+      <DependentUpon>SecondPageLesson6Frm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TargetingFrm.resx">
+      <DependentUpon>TargetingFrm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TrustFrm.resx">
+      <DependentUpon>TrustFrm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TrustNTargeting.resx">
+      <DependentUpon>TrustNTargeting.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="FontsFree-Net-Poppins-ExtraBold.ttf" />
+    <None Include="Resources\loading-dog-final.gif" />
+    <None Include="Resources\Loadingscree.jpg" />
+    <None Include="Resources\newArrow.jpg" />
+    <None Include="Resources\SendReview.jpg" />
+    <None Include="Resources\yellowPaw.jpg" />
+    <None Include="Resources\purplePaw.jpg" />
+    <None Include="Resources\Ratingpicture.jpg" />
+    <None Include="Resources\toLeftArrow.jpg" />
+    <None Include="Resources\btnDone.jpg" />
+    <None Include="Resources\344278466_646024564025262_1696062175680970128_n.jpg" />
+    <None Include="Resources\male.png" />
+    <None Include="Resources\female.png" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\341308864_907896260429947_7039218549781121746_n.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\panelBG2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\panelBG3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DownDogForBasics.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\NoCommandDogForBasics.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\NamingADogForBasics.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\StayDogForBasics.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\GivePawDogForBasics.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SittingDogForBasics.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DownDog2jpg.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sit2DogForBasics.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\StayDog2ForBasics.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DownDogForBasics1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\NoCommandDogForBasics1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\givePawDog2ForBasics.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\NO2Forbasics.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MainBackGround.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ToRightArrow.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cameraIcon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pictrust.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\picTargetinjpg.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+</Project>
